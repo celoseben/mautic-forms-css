@@ -45,7 +45,8 @@
   padding: 16px !important;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  margin-top: 5px;}
 
 .mauticform-selectbox {
   vertical-align: middle !important;
