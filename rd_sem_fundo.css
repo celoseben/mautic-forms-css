@@ -81,4 +81,22 @@
   color: #c0392b !important;
   font-weight: bold; }
 
+
+.mauticform-message {
+    background-color: #ffffff8c !important;
+    text-align: center !important;
+    font-weight: 600;
+}
+
+.mauticform-error {
+    background-color: #ffffff8c !important;
+    text-align: center !important;
+}
+
+.mauticform-errormsg {
+    color: #d10621 !important;
+    background-color: #ffffff8c !important;
+    padding: 5px !important;
+}
+
 /*# sourceMappingURL=rd.css.map */
