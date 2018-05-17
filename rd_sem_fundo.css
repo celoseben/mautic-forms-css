@@ -21,7 +21,7 @@
 .mauticform_wrapper {
   /*background-color: #ecf0f1 !important;*/
   color: #404a5e !important;
-  padding: 20px 15px !important; }
+  padding: 20px 15px; }
 
 .mauticform-row {
   padding: 8px !important;
