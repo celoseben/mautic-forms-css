@@ -51,7 +51,7 @@
 .mauticform-selectbox {
   vertical-align: middle !important;
   height: 50px !important;
-  line-height: 50px !important; }
+  /*line-height: 50px !important;*/ }
 
 .mauticform-button {
   background-color: #404a5e;
@@ -98,5 +98,3 @@
     background-color: #ffffff8c !important;
     padding: 5px !important;
 }
-
-/*# sourceMappingURL=rd.css.map */
